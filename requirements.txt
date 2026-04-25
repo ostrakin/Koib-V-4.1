@@ -1,0 +1,19 @@
+pymupdf>=1.23.0
+python-docx>=0.8.11
+Pillow>=9.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+pytesseract>=0.3.10
+easyocr>=1.7.0
+torch>=2.0.0
+sentence-transformers>=2.2.0
+langchain-core>=0.1.0,<0.4.0
+langchain>=0.1.0,<0.4.0
+langchain-text-splitters>=0.0.1,<0.4.0
+langchain-community>=0.0.10,<0.4.0
+langchain-huggingface>=0.0.1,<0.4.0
+faiss-cpu>=1.7.4,<2.0.0
+requests>=2.28.0
+
+# Опциональные зависимости (VK бот):
+# pip install vk-api>=11.9.0
